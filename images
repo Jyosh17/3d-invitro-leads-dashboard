@@ -1,0 +1,7 @@
+import streamlit as st
+
+st.title("3D In-Vitro Lead Dashboard 🧬")
+
+st.image("https://raw.githubusercontent.com/YourUsername/3d-invitro-leads-dashboard/main/images/lab_research.jpg", caption="Lab Research")
+st.image("https://raw.githubusercontent.com/YourUsername/3d-invitro-leads-dashboard/main/images/3d_cell_culture.jpg", caption="3D Cell Culture")
+st.image("https://raw.githubusercontent.com/YourUsername/3d-invitro-leads-dashboard/main/images/liver_cells.jpg", caption="Liver Cells")
